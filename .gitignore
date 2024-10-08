@@ -1,0 +1,77 @@
+# Visual Studio
+.vs/
+*.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.pdb
+*.dbmdl
+*.dbproj.schemaview
+*.jfm
+*.ide
+
+# Rider
+.idea/
+*.sln.iml
+
+# Build Folders
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+[Rr]eleaseTemp/
+[Rr]elease/**/Debug/
+[Rr]elease/**/Release/
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+**/packages/*
+!.nuget/
+
+# Visual Studio Code
+.history/
+*.code-workspace
+
+# Test Results
+TestResults/
+*.trx
+*.coverage
+
+# Temporary Files
+*.tmp
+*.temp
+*.log
+*.log.*
+
+# User-specific files
+*.DS_Store
+Thumbs.db
+
+# Azure Web App publishing
+.publish/
+*.Publish.xml
+*.PublishProfile.xml
+
+# JetBrains Rider & ReSharper
+*.DotSettings
+*.DotSettings.user
+
+# Local History for JetBrains Rider
+.idea/.idea*
+
+# JetBrains Rider cache
+.idea/asset_cache/
+.idea/.idea*
+
+# Backup files
+*~
+*.bak
+*.swp
+*.swm
+
+# Others
+*.sln.ide
+*.sln.user
+*.csproj.user
